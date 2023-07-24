@@ -1,0 +1,12 @@
+caption {
+    font-family: Arial;
+    font-size: large;
+    background-color: orangered;
+    color: white;
+}
+td {
+    color: #f84d1a;
+}
+fieldset {
+    width: 345px;
+}

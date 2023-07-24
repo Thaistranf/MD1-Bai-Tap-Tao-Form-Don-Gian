@@ -1,0 +1,17 @@
+caption {
+    background-color: aqua;
+    color: mediumblue;
+    font-size: larger;
+    font-family: Constantia;
+    text-align: left;
+}
+td {
+    color: mediumblue;
+}
+fieldset {
+    background-color: darkkhaki;
+    width: 350px;
+}
+table {
+    background-color: darkkhaki;
+}
